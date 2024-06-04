@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Krzysztof\\source\\repos\\BusesServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A80513B7-CDD4-4D91-91A0-F145335DB28B}|BusesServer.Tests\\BusesServer.Tests.csproj|c:\\users\\krzysztof\\source\\repos\\busesserver\\busesserver.tests\\busesservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A80513B7-CDD4-4D91-91A0-F145335DB28B}|BusesServer.Tests\\BusesServer.Tests.csproj|solutionrelative:busesserver.tests\\busesservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C8D3F42-F8D2-4E74-AADB-024E2334FE9D}|BusesServer\\BusesServer.csproj|c:\\users\\krzysztof\\source\\repos\\busesserver\\busesserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8C8D3F42-F8D2-4E74-AADB-024E2334FE9D}|BusesServer\\BusesServer.csproj|solutionrelative:busesserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A80513B7-CDD4-4D91-91A0-F145335DB28B}|BusesServer.Tests\\BusesServer.Tests.csproj|c:\\users\\krzysztof\\source\\repos\\busesserver\\busesserver.tests\\departuresservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A80513B7-CDD4-4D91-91A0-F145335DB28B}|BusesServer.Tests\\BusesServer.Tests.csproj|solutionrelative:busesserver.tests\\departuresservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C8D3F42-F8D2-4E74-AADB-024E2334FE9D}|BusesServer\\BusesServer.csproj|c:\\users\\krzysztof\\source\\repos\\busesserver\\busesserver\\dtos\\departuredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C8D3F42-F8D2-4E74-AADB-024E2334FE9D}|BusesServer\\BusesServer.csproj|solutionrelative:busesserver\\dtos\\departuredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C8D3F42-F8D2-4E74-AADB-024E2334FE9D}|BusesServer\\BusesServer.csproj|c:\\users\\krzysztof\\source\\repos\\busesserver\\busesserver\\data\\services\\departuresservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C8D3F42-F8D2-4E74-AADB-024E2334FE9D}|BusesServer\\BusesServer.csproj|solutionrelative:busesserver\\data\\services\\departuresservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C8D3F42-F8D2-4E74-AADB-024E2334FE9D}|BusesServer\\BusesServer.csproj|c:\\users\\krzysztof\\source\\repos\\busesserver\\busesserver\\data\\models\\departure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C8D3F42-F8D2-4E74-AADB-024E2334FE9D}|BusesServer\\BusesServer.csproj|solutionrelative:busesserver\\data\\models\\departure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 142,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BusesServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\BusesServer\\BusesServer.Tests\\BusesServiceTest.cs",
+              "RelativeDocumentMoniker": "BusesServer.Tests\\BusesServiceTest.cs",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\BusesServer\\BusesServer.Tests\\BusesServiceTest.cs",
+              "RelativeToolTip": "BusesServer.Tests\\BusesServiceTest.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAiwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T19:42:20.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\BusesServer\\BusesServer\\appsettings.json",
+              "RelativeDocumentMoniker": "BusesServer\\appsettings.json",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\BusesServer\\BusesServer\\appsettings.json",
+              "RelativeToolTip": "BusesServer\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAClAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-31T19:34:49.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DepartureDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\BusesServer\\BusesServer\\DTOs\\DepartureDTO.cs",
+              "RelativeDocumentMoniker": "BusesServer\\DTOs\\DepartureDTO.cs",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\BusesServer\\BusesServer\\DTOs\\DepartureDTO.cs",
+              "RelativeToolTip": "BusesServer\\DTOs\\DepartureDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T19:02:32.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Departure.cs",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\BusesServer\\BusesServer\\Data\\Models\\Departure.cs",
+              "RelativeDocumentMoniker": "BusesServer\\Data\\Models\\Departure.cs",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\BusesServer\\BusesServer\\Data\\Models\\Departure.cs",
+              "RelativeToolTip": "BusesServer\\Data\\Models\\Departure.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAMAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T18:55:53.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeparturesService.cs",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\BusesServer\\BusesServer\\Data\\Services\\DeparturesService.cs",
+              "RelativeDocumentMoniker": "BusesServer\\Data\\Services\\DeparturesService.cs",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\BusesServer\\BusesServer\\Data\\Services\\DeparturesService.cs",
+              "RelativeToolTip": "BusesServer\\Data\\Services\\DeparturesService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAdwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T18:54:12.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeparturesServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\BusesServer\\BusesServer.Tests\\DeparturesServiceTest.cs",
+              "RelativeDocumentMoniker": "BusesServer.Tests\\DeparturesServiceTest.cs",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\BusesServer\\BusesServer.Tests\\DeparturesServiceTest.cs",
+              "RelativeToolTip": "BusesServer.Tests\\DeparturesServiceTest.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwCYAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T18:53:01.056Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
